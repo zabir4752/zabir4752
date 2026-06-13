@@ -1,29 +1,29 @@
+```markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mahedi%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Flutter%20Developer%20•%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Zabir%20Bin%20Abu%20Bakar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Learner%20•%20Laravel%20Developer%20•%20Future%20Tech%20Entrepreneur&descAlignY=58&descSize=18"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Zabir Bin Abu Bakar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Flutter+Developer;AI+%26+Automation+Enthusiast;UI%2FUX+Designer;Software+Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=CSE+Student+at+Daffodil+International+University;AI+%26+Machine+Learning+Learner;PHP+%26+Laravel+Developer;Future+AI+Entrepreneur;Building+Technology+That+Creates+Impact" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahedi454&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=zabir4752&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 
 # 💫 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Software Engineering Student at Daffodil International University  
-- 🚀 Passionate about Full Stack Development & AI Systems  
-- 📱 Flutter Developer building modern mobile apps  
-- 🌐 Building scalable web applications using Next.js & Laravel  
-- 🎨 UI/UX Designer focused on clean modern interfaces  
-- 🤖 Exploring AI, Automation & Cloud Technologies  
-- ⚡ Goal: Building impactful startup products & SaaS platforms  
+- 🎓 B.Sc. in Computer Science & Engineering at Daffodil International University  
+- 🤖 Passionate about Artificial Intelligence and Machine Learning  
+- 💻 Building web applications using PHP & Laravel  
+- 📚 Currently learning Data Science, Machine Learning, and Deep Learning  
+- 🚀 Founder-minded individual with a vision to build AI-driven companies  
+- 🌍 Love traveling, exploring cultures, and discovering local foods  
+- 🎯 Goal: Establish an AI Academy and a technology company creating real-world impact  
 
 <br/>
 <br/>
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto: siddiquezabir2020@gmail.com">
+<a href="mailto:siddiquezabir2020@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -56,27 +56,26 @@
 
 ## 👨‍💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c,dart" />
+<img src="https://skillicons.dev/icons?i=python,php,java,c,html,css,js,mysql" />
 </p>
 
-## ⚛️ Frontend Development
+## 🌐 Web Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,mysql" />
 </p>
 
-## 🔥 Backend Development
+## 🤖 AI & Data Science
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-## 🎨 UI/UX & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" />
+Machine Learning • Data Science • Deep Learning • LLMs (Learning Journey)
 </p>
 
-## ☁️ Cloud & DevOps
+## 🛠️ Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
 </p>
 
 ---
@@ -84,71 +83,27 @@
 # 🚀 Featured Projects
 
 <p align="center">
-  A selection of my recent work. Each project is built with modern technologies and best practices.
+  Projects that reflect my journey in software development, embedded systems, and emerging AI technologies.
 </p>
 
 <table>
 <tr>
 <td width="50%">
 
-## 🎁 GiftNest
-
-**Laravel E-Commerce Platform**
-
-Modern Laravel-based eCommerce gift platform with a complete shopping experience.
-
-✅ Authentication System  
-✅ Cart & Checkout  
-✅ Admin Dashboard  
-✅ Product Management  
-
-**Tech Stack:** Laravel • PHP • MySQL  
-
-<a href="https://github.com/Mahedi454/GiftNest_-PHP-Laravel_Project">
-  <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🚀 Shei-IT
-
-**IT Agency Platform**
-
-Modern IT agency platform featuring powerful design and smooth experience.
-
-✅ Modern UI/UX  
-✅ Service Management  
-✅ SEO Optimization  
-✅ Responsive Design  
-
-**Tech Stack:** Next.js • TypeScript • Node.js  
-
-<a href="https://github.com/Mahedi454/Shei-IT">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ## 🌐 Personal Portfolio
 
-**Developer Portfolio Website**
+**Professional Portfolio Website**
 
-Professional developer portfolio with modern design and smooth animations.
+A portfolio showcasing projects, certifications, leadership experiences, and technical growth.
 
-✅ Dark/Light Theme  
-✅ Responsive Layout  
-✅ Modern Animations  
-✅ SEO Friendly  
+✅ Responsive Design  
+✅ Project Showcase  
+✅ Certification Section  
+✅ Professional Branding  
 
-**Tech Stack:** React • TypeScript • Tailwind CSS  
+**Tech Stack:** PHP • Laravel • MySQL  
 
-<a href="https://github.com/Mahedi454/personal_portfolio">
+<a href="https://portfolio-el50.onrender.com/">
   <img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -156,22 +111,54 @@ Professional developer portfolio with modern design and smooth animations.
 
 <td width="50%">
 
-## 📱 Flutter UI Projects
+## 🔐 Smart Door Security System
 
-**Mobile UI Collection**
+**ESP32-Based IoT Security Solution**
 
-Collection of modern mobile app interfaces built with Flutter and clean animations.
+A smart security system designed using ESP32 to improve access control and monitoring.
 
-✅ Authentication UI  
-✅ eCommerce UI  
-✅ Animations  
-✅ Responsive Screens  
+✅ ESP32-WROOM-32 Based  
+✅ Real-Time Monitoring  
+✅ IoT Integration  
+✅ Budget-Friendly Solution  
 
-**Tech Stack:** Flutter • Dart  
+**Tech Stack:** ESP32 • IoT • Embedded Systems  
 
-<a href="https://github.com/Mahedi454/Flutter_login_form">
-  <img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🛡️ Automatic Air Defense System
+
+**Embedded Systems Lab Project**
+
+An Arduino-powered defense simulation system developed as part of academic coursework.
+
+✅ Sensor Integration  
+✅ Automated Detection Logic  
+✅ Embedded Programming  
+✅ Hardware Implementation  
+
+**Tech Stack:** Arduino • Embedded C • Sensors  
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI & Machine Learning Journey
+
+**Continuous Learning Initiative**
+
+Exploring the foundations of Artificial Intelligence through practical learning and experimentation.
+
+✅ Machine Learning Fundamentals  
+✅ Data Preprocessing  
+✅ Deep Learning Concepts  
+✅ Future AI Product Vision  
+
+**Focus Areas:** ML • DL • LLMs • Data Science  
 
 </td>
 </tr>
@@ -180,10 +167,10 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 ---
 
 <p align="center">
-  <a href="https://github.com/Mahedi454?tab=repositories">
+  <a href="https://github.com/zabir4752?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://mahedihasan.tech">
+  <a href="https://portfolio-el50.onrender.com/">
     <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -191,17 +178,17 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi454&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabir4752&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahedi454&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahedi454&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi454&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zabir4752&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zabir4752&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zabir4752&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahedi454&theme=tokyonight&utcOffset=6" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zabir4752&theme=tokyonight&utcOffset=6" />
 </p>
 
 ---
@@ -209,7 +196,7 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mahedi454&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zabir4752&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -217,7 +204,7 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahedi454&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zabir4752&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -226,9 +213,9 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahedi454/Mahedi454/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahedi454/Mahedi454/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahedi454/Mahedi454/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabir4752/zabir4752/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zabir4752/zabir4752/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zabir4752/zabir4752/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -236,11 +223,11 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 
 # 🎯 Current Focus
 
-- 🚀 Building scalable SaaS & startup platforms  
-- 🤖 AI-powered automation systems  
-- 📱 Cross-platform mobile app development  
-- 🌐 Modern full-stack web applications  
-- 🔐 Cybersecurity & cloud infrastructure  
+- 🤖 Learning Machine Learning and Deep Learning  
+- 📚 Strengthening my foundation in Data Science  
+- 🌐 Building robust web applications with Laravel  
+- 🚀 Working toward establishing an AI-focused academy  
+- 💡 Exploring opportunities to build impactful technology businesses  
 
 ---
 
@@ -255,7 +242,7 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 # ⚡ Fun Fact
 
 <p align="center">
-💡 I love building modern digital products that combine clean UI, performance, and real-world impact.
+💡 I dream of building technology companies that combine education, artificial intelligence, and innovation to create meaningful impact in Bangladesh and beyond.
 </p>
 
 ---
@@ -263,3 +250,5 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 </p>
+```
+
