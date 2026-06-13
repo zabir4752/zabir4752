@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Zabir%20Bin%20Abu%20Bakar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Learner%20•%20Laravel%20Developer%20•%20Future%20Tech%20Entrepreneur&descAlignY=58&descSize=18"/>
 </p>
@@ -250,5 +249,4 @@ Exploring the foundations of Artificial Intelligence through practical learning 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 </p>
-```
 
