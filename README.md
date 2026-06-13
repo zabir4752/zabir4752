@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Zabir%20Bin%20Abu%20Bakar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Learner%20•%20Laravel%20Developer%20•%20Future%20Tech%20Entrepreneur&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Zabir%20Bin%20Abu%20Bakar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Machine%20Learning%20Learner%20%7C%20Laravel%20Developer%20%7C%20Future%20Tech%20Entrepreneur&descAlignY=60&descSize=16" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Zabir Bin Abu Bakar</h1>
 
